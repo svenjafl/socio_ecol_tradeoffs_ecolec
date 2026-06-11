@@ -5,8 +5,10 @@ Create a folder structure as follows. The main folder is called "replication_pac
 
 Replication_package
 > Code
+
 > Data
 >> wid_all_data 
+
 > Results
 
 The raw data files need to be downloaded from the original sources and stored in the data folder as indicated in the data preparation code. The do-files must run in the order indicated in the Master do-file:
